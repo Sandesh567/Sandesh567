@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm Currently studying BIM(Bachelor of Information Management)<br>I'm looking for a frontend developer role<br>I'm currently learning React Native<br>
+<br> BIM(Bachelor of Information Management) Passed out student.<br>I'm looking for a frontend developer role<br>I'm currently learning React Native<br>
 
 
 ## 🌐 Socials:
