@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br> BIM(Bachelor of Information Management) Passed out student.<br>I'm looking for a frontend developer role<br>I'm currently learning React Native<br>
+<br> Hi, I'm Sandesh Raj Bhatta — a recent BIM graduate passionate about technology, problem-solving, and continuous learning.
+<br>I'm currently diving into Python programming, exploring its potential in areas like automation, data science, and web development..<br>
 
 
 ## 🌐 Socials:
