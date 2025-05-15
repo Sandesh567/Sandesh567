@@ -1,5 +1,7 @@
-<br> Hi, I'm Sandesh Raj Bhatta — a recent BIM graduate passionate about technology, problem-solving, and continuous learning.
- <br>I'm currently diving into Python programming, exploring its potential in areas like automation, data science, and web development..<br>
+<br> I'm Sandesh Raj Bhatta — a self-motivated and curious beginner frontend developer from Nepal. I started my journey into the world of web development, and I've been loving every step of it!
+
+
+ <br>I enjoy turning ideas into simple, clean, and responsive websites. Right now, I'm focused on learning the core technologies that power the web and slowly building my confidence through small projects and hands-on practice...<br>
  
  
  ## 🌐 Socials:
