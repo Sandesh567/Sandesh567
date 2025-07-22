@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently diving deep into data science and its tools.<br>🤝 I’m looking for help with data science and development.<br>🌱 I’m currently learning data science tools.<br>
+🔭 I’m currently diving deep into data science and its tools.<br>🤝 I’m looking for help with data science and development.<br>🌱 I’m currently learning data science.<br>
 
 
 ## 🌐 Socials:
