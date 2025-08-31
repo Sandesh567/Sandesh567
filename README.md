@@ -1,5 +1,7 @@
 # 💫 About Me:
-.<br> 🔭 I’m currently learning data science.<br>
+<br> 🔭 Passionate about building web experiences and exploring data-driven solutions.📊<br>
+
+<br> 💻Frontend Developer |👾 Data Enthusiast.<br>
 
 
 ## 🌐 Socials:
